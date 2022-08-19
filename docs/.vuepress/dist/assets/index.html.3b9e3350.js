@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-3d378f1e","path":"/Handbooks/Scout/","title":"Scouts BSA Handbook List","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Handbooks/Scout/index.md"}');export{t as data};

@@ -1,0 +1,1 @@
+const t=JSON.parse('{"key":"v-037f71f4","path":"/Handbooks/CubScout/","title":"Cub Scout Handbook List","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Handbooks/CubScout/index.md"}');export{t as data};

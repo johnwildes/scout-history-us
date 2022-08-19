@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-4d506806","path":"/Handbooks/Leadership/","title":"Leadership Materials","lang":"en-US","frontmatter":{},"excerpt":"","headers":[],"git":{},"filePathRelative":"Handbooks/Leadership/index.md"}');export{e as data};
